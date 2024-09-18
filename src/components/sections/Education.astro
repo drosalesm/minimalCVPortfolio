@@ -1,0 +1,93 @@
+---
+import Section from "@/components/Section.astro"
+import { education } from "@cv"
+
+---
+<Section title="Estudios">
+
+    <ul>
+    {
+        education.map(({institution,startDate,endDate,area,studyType})=>{
+            const startYear= new Date(startDate).getFullYear()
+            const endYear =
+                endDate != null ? new Date(endDate).getFullYear() : "Actualmente"
+            const years=`${startYear}-${endYear}`
+        
+        return(
+            <li>
+                <article>
+                    <header>
+                        <div class="cuerpo">
+                            <h3>{institution}</h3>
+                            <h4>{area}</h4>
+    
+                        </div>
+                        <time>
+                            {years}
+                        </time>
+                    </header>
+                    <footer>
+                        {studyType}
+                    </footer>
+                </article>            
+            </li>
+        )
+    }
+        )
+    }
+    </ul>
+    
+    </Section>
+    
+    
+    <style>
+
+        ul{
+            display: flex;
+            flex-direction: column;
+            gap:32px;         
+        }
+        
+        
+        article h3{
+            font-weight: 500;
+            color:#111;
+        }
+        
+        article h4{
+            color:#222;
+            font-weight: 400;
+            font-family: cursive;
+        
+        
+        }
+        
+        
+        header{
+            display:flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 4px;
+        }
+        
+        header h3{
+            margin-bottom: 4px;
+        }
+        
+        
+        time{
+            color:#555;
+            font-size: 0.85rem;
+        }
+        
+        
+        footer{
+            margin-top: 8px;
+        }
+        
+        
+        .cuerpo{
+            margin-top: 10px;
+        }
+        
+        </style>

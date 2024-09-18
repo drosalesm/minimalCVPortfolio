@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "David Rosales Mejia",
+    "label": "Product Developer, Fullstack (Python,React) Developer",
+    "image": "/me2.JPEG",
+    "email": "drosalesm204@gmail.com",
+    "phone": "+504 94472095",
+    "url": "https://midu.dev",
+    "summary": "Cuento con mas de 8 años trabajando en proyectos de desarrollo de software para digitalizar y automatizar procesos en el rubro de telecomunicaciones y liberando células digitales utilizando metodología scrum. Experiencia como desarrollador freelance para proyectos web y micro servicios con Python y tecnologías Front React y Astro",
+    "location": {
+      "address": "Aldea Cerro grande Valle de angeles F.M barrio pie del cerro grande",
+      "postalCode": "504",
+      "city": "Tegucigalpa",
+      "countryCode": "HN",
+      "region": "Honduras"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "David",
+        "url": "https://www.linkedin.com/in/david-rosales-mejia-162959156/"
+      },
+      {
+        "network": "GitHub",
+        "username": "david rosales mejia",
+        "url": "https://github.com/drosalesm"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TIGO (Telefónica Celular)",
+      "position": "Especialista de desarollos digitales",
+      "url": "",
+      "startDate": "2022-07-13",
+      "endDate": null,
+      "summary": "Responsable de liderar proyectos de innovación digital en células y equipos de trabajo bajo la metodología agile mediante la elaboración y planteamiento de propuestas técnicas, gestion de liberacion comercial y monitoreo para garantizar el correcto funcionamiento de los productos digitales funcionales ",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TIGO (Telefónica Celular)",
+      "position": "Arquitecto de software",
+      "url": "",
+      "startDate": "2020-08-17",
+      "endDate": "2022-07-12",
+      "summary": "Encargado de diseñar soluciones de software para integración entre plataformas Core, servicios Rest y front-end de aplicativos web y Mobile. Monitoreo y medición de indicadores de calidad de aplicaciones digitales.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TIGO (Telefónica Celular)",
+      "position": "Ingeniero de datos y servicios",
+      "startDate": "2017-03-01",
+      "endDate": "2020-08-16",
+      "summary": "Encargado de elaborar de procesos para generación de conciliación multiplataforma, diseño de procesos (ETL). Brindar soporte y desarollo de nuevas funcionalidades en aplicaciones web.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TIGO (Telefónica Celular)",
+      "position": "Analista de facturacion",
+      "startDate": "2016-06-22",
+      "endDate": "2017-02-28",
+      "summary": "Encargado de elaborar de procesos para generación de conciliación multiplataforma, diseño de procesos (ETL). Brindar soporte y desarollo de nuevas funcionalidades en aplicaciones web.",
+      "highlights": [
+        "Started the company"
+      ]
+    }    
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad tecnológica centroamericana UNITEC.",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Maestría en administración de proyectos.",
+    "studyType": "Proyectos",
+    "startDate": "2017-01-20",
+    "endDate": "2019-05-01",
+    "score": "4.0"
+  },{
+    "institution": "Universidad católica de Honduras.",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Ingeniería en Ciencias de la Computación..",
+    "studyType": "Informatica",
+    "startDate": "2010-01-20",
+    "endDate": "2015-06-01",
+    "score": "4.0"
+  },{
+    "institution": "Universidad pedagógica Nacional Francisco Morazán UPNFM.",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Diplomado educación superior.",
+    "studyType": "Docencia",
+    "startDate": "2020-01-20",
+    "endDate": "2021-06-01",
+    "score": "4.0"
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Api rest"
+      ]
+    },
+    {
+      "name": "Fast API",
+      "level": "Master",
+      "keywords": [
+        "Querys"
+      ]
+    },
+    {
+      "name": "DJANGO",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Postgres",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Musica",
+    "keywords": [
+      "Producción",
+      "Composición"
+
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Mi Tigo APP",
+      "isActive": true,
+      "description": "Gestión de integraciones locales y regionales en Mi Tigo app",
+      "highlights": [
+        "Visualizar facturas",
+        "Servicios contratados",        
+        "Compras",
+        "IOS, Andriod Web"        
+      ],
+      "url": "https://www.tigo.com.hn/mi-tigo"
+    },
+    {
+      "name": "Tigo Challenge",
+      "isActive": true,
+      "description": "Programa de lealtad para compensacion por compras realizadas mediante canales digitales",
+      "highlights": [
+        "Incremento de revenue",
+        "Mayor interaccion en apps",
+        "Cumplimiento de KPI"        
+      ],
+      "url": "https://ayuda.tigo.com.hn/hc/es/articles/10880312689043-Conoce-el-Tigo-Challenge-para-usuarios-Prepago"
+    },    
+    {
+      "name": "Supermarket Pospago",
+      "isActive": true,
+      "description": "Integracion de servicios de streaming, Analisis y conciliacion de licencias.",
+      "highlights": [
+        "Amazon Video-Music",
+        "Max",
+        "Disney",
+        "Vix"
+      ],
+      "url": "https://www.tigo.com.hn/premium"
+    },
+    {
+      "name": "Tigo Business Online",
+      "isActive": true,
+      "description": "Plataforma para manejo de clientes corporativos B2B",
+      "highlights": [
+        "Cambio de simcard",
+        "Bloqueo de linea",
+        "Limite de credito"        
+      ],
+      "url": "https://www.tigo.com.hn/empresas"
+    }
+  ],
+  "frelanceProjects": [
+    {
+      "name": "Innova WEB",
+      "isActive": false,
+      "description": "Sistema de administración de exámenes médicos",
+      "highlights": [
+        "Python-Django",
+        "Postgresql",        
+        "Bootstrap"        
+      ],
+      "url": "https://github.com/drosalesm/innova"
+    },
+    {
+      "name": "Token Managment System",
+      "isActive": false,
+      "description": "Sistema Bancario para administracion de TOKENS de acceso",
+      "highlights": [
+        "FastAPI",
+        "SQL LITE",
+        "React"        
+      ],
+      "url": "https://github.com/drosalesm/tokenProjectFastApi/tree/main/apiProyect"
+    }
+  ]
+}
