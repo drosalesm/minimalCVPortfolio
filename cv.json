@@ -283,6 +283,17 @@
         "React"        
       ],
       "url": "https://github.com/drosalesm/tokenProjectFastApi/tree/main/apiProyect"
-    }
+    },
+    {
+      "name": "Kelly Tax Pro",
+      "isActive": false,
+      "description": "SPA website para la empresa Kelly Tax Pro dedicada a la recoleccion de impuestos en USA Hempstead NY",
+      "highlights": [
+        "FastAPI",
+        "SQL LITE",
+        "React"        
+      ],
+      "url": "https://kellytaxpro.com/"
+    }    
   ]
 }
