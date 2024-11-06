@@ -6,7 +6,7 @@
     "email": "drosalesm204@gmail.com",
     "phone": "+504 94472095",
     "url": "https://midu.dev",
-    "summary": "Cuento con mas de 8 años trabajando en proyectos de desarrollo de software para digitalizar y automatizar procesos en el rubro de telecomunicaciones y liberando células digitales utilizando metodología scrum. Experiencia como desarrollador freelance para proyectos web y micro servicios con Python y tecnologías Front React y Astro",
+    "summary": "Cuento con más de 8 años trabajando en proyectos de desarrollo de software dedicados a la digitalización y automatización de procesos de venta en el rubro de telecomunicaciones, he liderado células digitales utilizando metodología scrum. Tengo Experiencia como desarrollador freelance para proyectos web y micro servicios con Python y tecnologías Front React y Astro",
     "location": {
       "address": "Aldea Cerro grande Valle de angeles F.M barrio pie del cerro grande",
       "postalCode": "504",
@@ -163,13 +163,6 @@
       ]
     },
     {
-      "name": "Javascript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
       "name": "Postgres",
       "level": "Avanzado",
       "keywords": [
@@ -188,6 +181,13 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     }
   ],
@@ -271,7 +271,7 @@
         "Postgresql",        
         "Bootstrap"        
       ],
-      "url": "https://github.com/drosalesm/innova"
+      "url": "https://github.com/drosalesm/innovaSystem.git"
     },
     {
       "name": "Token Managment System",
@@ -282,11 +282,11 @@
         "SQL LITE",
         "React"        
       ],
-      "url": "https://github.com/drosalesm/tokenProjectFastApi/tree/main/apiProyect"
+      "url": "https://github.com/drosalesm/tokenApiReactProyect.git"
     },
     {
       "name": "Kelly Tax Pro",
-      "isActive": false,
+      "isActive": true,
       "description": "SPA website para la empresa Kelly Tax Pro dedicada a la recoleccion de impuestos en USA Hempstead NY",
       "highlights": [
         "FastAPI",
