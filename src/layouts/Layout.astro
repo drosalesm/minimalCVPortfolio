@@ -15,15 +15,15 @@ const { image, summary, url } = basics
   <head>
     <meta charset="UTF-8" />
     <title>{title}</title>
-    <meta name="description" content={summary} />
+    <meta name="description" content={title}/>
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/logoDR.png" />
     <link rel="preload" as="image" href={image} />
 
     <meta property="og:url" content={url} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={title} />
     <meta property="og:title" content={title} />
-    <meta property="og:description" content={summary} />
+    <meta property="og:description" content={title} />
     <meta property="og:image" content="" />
 
     <meta name="twitter:card" content="summary_large_image" />
