@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.3",
+    "@astrojs/tailwind": "^5.1.2",
     "astro": "^4.14.2",
     "ninja-keys": "^1.2.2",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
   }
 }
